@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Collinskim001
 - 👀 I’m interested in data science 
 and machine learning algorithm.
-- 🌱 I’m currently learning MA.
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on creating Algorithms for
 AI application s. 
 - 📫 How to reach via Twitter.
